@@ -21,4 +21,4 @@ Bem vindos ao nosso readme funcionários da CMTECH, abaixo segue algumas instru�
 <h3>🏃 Como executar o projeto:  </h3>
 <br><br>
 <li>Para clonar o repositório escreva o comando abaixo: </li> <br>
-git clone https://github.com/Silassousa-cod/DesafioQAJusta.git
+git clone https://github.com/Silassousa-cod/residencia_pd_cmtech.git
