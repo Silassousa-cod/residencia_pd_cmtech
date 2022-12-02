@@ -3,6 +3,7 @@
 Bem vindos ao nosso readme funcionários da CMTECH, abaixo segue algumas instruções de como é o nosso projeto, e como foi desenvolvido.
 
 <h3> ⚙ Objetivo do projeto: </h3> 
+Desenvolver um sistema de atendimento aos funcionário da CMTECH, onde os mesmos poderão atender seus respectivos clientes.  
  
 <h3> ⚙ Tecnologias utilizadas: </h3>
 <li><b>React/JS</b> Biblioteca de código aberto para interfaces gráficas que tem como foco tornar a experiência do usuário com a interface mais eficiente.</li> 
@@ -15,10 +16,12 @@ Bem vindos ao nosso readme funcionários da CMTECH, abaixo segue algumas instru�
 - O projeto possui rotas navegáveis(Login e Cadastro), onde favore na experiência do usuário. <br><br>
 - O usuário (funcionário) irá entrar com o domínio "admin@mexx.com", e a senha de sua escolha. <br><br>
 - O usuário (cliente) irá entrar com o domínio: "teste@teste.com", e a senha de sua escolha. <br><br>
+- Cada funcionário terá seu respectivo cargo/pefil no sistema, com suas permissões necessárias para o atendimento.
 
 
 
 <h3>🏃 Como executar o projeto:  </h3>
+
 <br><br>
 <li>Para clonar o repositório escreva o comando abaixo: </li> <br>
 git clone https://github.com/Silassousa-cod/residencia_pd_cmtech.git
